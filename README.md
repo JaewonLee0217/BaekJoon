@@ -7,3 +7,4 @@ BaekJoon
 2. 다시 봐야할 문제들
 
 SVM , SMOTE
+Learning rate
