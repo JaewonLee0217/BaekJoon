@@ -6,4 +6,5 @@ BaekJoon
 1. 해결한 문제들
 2. 다시 봐야할 문제들
 
-Supprot vector
+SVM , SMOTE
+Learning rate
