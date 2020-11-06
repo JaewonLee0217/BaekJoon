@@ -8,3 +8,4 @@ BaekJoon
 
 SVM , SMOTE
 Learning rate
+매일 1문제씩
