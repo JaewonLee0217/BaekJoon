@@ -8,7 +8,5 @@ BaekJoon
 
 SVM , SMOTE
 Learning rate
-매일 1문제씩
+매일 1문제씩 commit
 
-해결한문제에 업로드
-test
