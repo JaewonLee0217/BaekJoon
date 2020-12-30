@@ -1,6 +1,3 @@
-import sys
-#input = sys.stdin.readline
-
 n = list(input())
 prev = n[0]
 result= []
