@@ -33,7 +33,7 @@ while True:
         if maze[a][b-1] ==1 and v_maze[a][b-1] == 0:
             que.append([a,b-1])
             v_maze[a][b-1] += v_maze[a][b] + 1
-print(v_maze[a][b])
+print(v_maze[N-1][M-1])
         
 
         
