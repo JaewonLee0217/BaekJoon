@@ -31,7 +31,7 @@ while True:
     count = 0 
     for _ in range(h):
         a = list(map(int,input().split()))
-        s.append(s)
+        s.append(a)
     for i in range(h):
         for j in range(w):
             if s[i][j] == 1:
