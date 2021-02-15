@@ -18,5 +18,4 @@ BaekJoon
 
 
 그리디->완전탐색,Bfs,Dfs->DP(50개) -> 그래프이론, 중/고급 동적, 문자열
-
-sql web 0209
+SQL
