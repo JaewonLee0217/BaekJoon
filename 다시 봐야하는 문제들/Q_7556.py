@@ -1,11 +1,9 @@
-
-
 import sys
 input = sys.stdin.readline
 
 m,n = map(int, input().split())
 pmap = []
-#첫쨰날 ~ 끝까지 토마토 계수
+#첫쨰날 ~ 끝까지 토마토 수
 pcount = []
 count = 0
 def mapcount(pmap):
@@ -53,8 +51,3 @@ for i in pmap:
     else:
         pass     
 print(k)
-    
-
-    
-    
-    
